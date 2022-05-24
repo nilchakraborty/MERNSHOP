@@ -1,17 +1,24 @@
+*{
+  text-transform: capitalize;
+}
 main {
+  text-transform: capitalize;
   min-height: 80vh;
 }
 
 h3 {
+  text-transform: capitalize;
   padding: 1rem 0;
 }
 
 h1 {
+  text-transform: capitalize;
   font-size: 1.8rem;
   padding: 1rem 0;
 }
 
 h2 {
+  text-transform: capitalize;
   font-size: 1.4rem;
   padding: 0.5rem 0;
 }
@@ -27,11 +34,13 @@ h2 {
   display: flex;
 }
 .carousel-caption {
+  text-transform: capitalize;
   position: absolute;
   top: 0;
 }
 
 .carousel-caption h2 {
+  text-transform: capitalize;
   color: #fff;
 }
 

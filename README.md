@@ -16,8 +16,8 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-https://user-images.githubusercontent.com/87519278/233793828-2981cdc5-ff6d-4efc-959d-b874825c9267.png 
-<img src="https://user-images.githubusercontent.com/87519278/233793841-07f8199a-2ea4-43b0-b3d1-6b19f9c6acf7.png"/>
+![1](https://user-images.githubusercontent.com/87519278/233793828-2981cdc5-ff6d-4efc-959d-b874825c9267.png)
+![2](https://user-images.githubusercontent.com/87519278/233793841-07f8199a-2ea4-43b0-b3d1-6b19f9c6acf7.png)
 ![3](https://user-images.githubusercontent.com/87519278/233793845-8a4c5cfe-fce7-49f3-a35a-b0bb5647db91.png) 
 ![4](https://user-images.githubusercontent.com/87519278/233793848-d22a40b2-618c-4a61-b09e-4dd0b873a603.png)
 ![5](https://user-images.githubusercontent.com/87519278/233793850-a62482df-d07d-4400-b0e6-65e749cf4fa6.png) 
